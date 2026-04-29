@@ -3,7 +3,6 @@
 Selamat datang di repositori **c-minor**!
 
 c-minor adalah tugas dari Mata Kuliah Interaksi Manusia dan Komputer. 
-(https://valerianahmad.github.io/c-minor.github.io/)
 
 ## 📁 Struktur Direktori
 
